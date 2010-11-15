@@ -47,16 +47,16 @@ module RubyWarrior
     
     def character
       rows = []
-      rows << " " + ("-" * @width)
+      rows << "╭" + ("─" * @width) + "╮"
       @height.times do |y|
-        row = "|"
+        row = "│"
         @width.times do |x|
           row << space(x, y).character
         end
-        row << "|"
+        row << "│"
         rows << row
       end
-      rows << " " + ("-" * @width)
+      rows << "╰" + ("─" * @width) + "╯"
       rows.join("\n") + "\n"
     end
     

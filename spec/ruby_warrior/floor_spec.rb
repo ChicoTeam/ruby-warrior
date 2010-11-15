@@ -65,9 +65,9 @@ describe RubyWarrior::Floor do
       @floor.add(RubyWarrior::Units::Warrior.new, 0, 0)
       @floor.place_stairs(2, 0)
       @floor.character.should == <<-MAP
- ---
-|@ >|
- ---
+╭───╮
+│@ >│
+╰───╯
 MAP
     end
     
