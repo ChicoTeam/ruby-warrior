@@ -7,7 +7,7 @@ You play as a warrior climbing a tall tower to reach the precious Ruby at the to
 NOTE: The player directory structure changed on July 18, 2009. If you have an old profile using the "level-00*" structure then move the contents of the last level into the parent directory.
 
 
-== Getting Started
+== Getting Started!
 
 First install the gem.
 
