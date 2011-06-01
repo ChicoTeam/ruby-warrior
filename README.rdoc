@@ -169,7 +169,7 @@ Once your warrior reaches the top again you will receive an average grade, along
 Note: I'm in the process of fine-tuning the grading system. If you find the "S" grade to be too easy or too difficult to achieve on a given level, please add an issue for this on GitHub.
 
 
-== Tips
+== Tips !
 
 If you ever get stuck on a level, review the README documentation and be sure you're trying each ability out. If you can't keep your health up, be sure to "rest" when no enemy is around (while keeping an eye on your health). Also, try to use far-ranged weapons whenever possible (such as the bow).
 
