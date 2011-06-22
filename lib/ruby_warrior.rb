@@ -19,6 +19,7 @@ require 'ruby_warrior/space'
 require 'ruby_warrior/position'
 
 require 'ruby_warrior/units/base'
+require 'ruby_warrior/units/wall'
 require 'ruby_warrior/units/warrior'
 require 'ruby_warrior/units/sludge'
 require 'ruby_warrior/units/archer'
